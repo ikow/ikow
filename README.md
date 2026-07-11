@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B11,50:0B3B2E,100:12B981&height=220&section=header&text=Qi%20Deng%20%C2%B7%20kow&fontColor=E7EEF6&fontSize=54&fontAlignY=34&desc=Security%20Researcher%20%26%20Engineering%20Leader&descSize=20&descAlignY=54&descColor=CFF8E9" alt="Qi Deng — Security Researcher and Engineering Leader"/>
+<img width="100%" src="banner.svg" alt="Qi Deng · kow — Security Researcher & Engineering Leader"/>
 
 <div align="center">
 
@@ -69,4 +69,4 @@ Full-stack apps, designed and launched end to end.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12B981,50:0B3B2E,100:070B11&height=120&section=footer" alt=""/>
+<img width="100%" src="footer.svg" alt=""/>

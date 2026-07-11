@@ -1,0 +1,55 @@
+<svg viewBox="0 0 1280 300" width="1280" height="300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Qi Deng, kow, Security Researcher and Engineering Leader">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b11"/>
+      <stop offset="0.55" stop-color="#0a1017"/>
+      <stop offset="1" stop-color="#0b1a15"/>
+    </linearGradient>
+    <radialGradient id="glowG" cx="0.72" cy="0.3" r="0.55">
+      <stop offset="0" stop-color="#12b981" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#12b981" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="0.12" cy="0.9" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#ffffff" stroke-opacity="0.035"/>
+    </pattern>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c9f6e6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="300" fill="url(#bg)"/>
+  <rect width="1280" height="300" fill="url(#grid)"/>
+  <rect width="1280" height="300" fill="url(#glowG)"/>
+  <rect width="1280" height="300" fill="url(#glowC)"/>
+
+  <!-- accent bar -->
+  <rect x="90" y="96" width="6" height="108" rx="3" fill="#34d399"/>
+
+  <!-- name -->
+  <text x="124" y="150" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="-1" fill="url(#name)">Qi Deng <tspan fill="#34d399">· kow</tspan></text>
+
+  <!-- subtitle -->
+  <text x="126" y="196" font-family="'JetBrains Mono','SFMono-Regular',ui-monospace,monospace" font-size="21" letter-spacing="4" fill="#7fd4b4">SECURITY RESEARCHER &amp; ENGINEERING LEADER</text>
+
+  <!-- focus tags -->
+  <g font-family="'JetBrains Mono',ui-monospace,monospace" font-size="13" letter-spacing="1" fill="#9fb0c0">
+    <text x="126" y="238">frontier AI red-teaming</text>
+    <text x="126" y="238" dx="210" fill="#3f5560">·</text>
+    <text x="126" y="238" dx="230">exploit dev</text>
+    <text x="126" y="238" dx="340" fill="#3f5560">·</text>
+    <text x="126" y="238" dx="360">ML security</text>
+    <text x="126" y="238" dx="470" fill="#3f5560">·</text>
+    <text x="126" y="238" dx="490">shipping products</text>
+  </g>
+
+  <!-- terminal prompt, bottom right -->
+  <text x="1194" y="252" text-anchor="end" font-family="ui-monospace,monospace" font-size="15" fill="#3f5f52"><tspan fill="#34d399">$</tspan> whoami &#8594; break &amp; build<tspan fill="#34d399">_</tspan></text>
+
+  <!-- green baseline -->
+  <rect x="0" y="296" width="1280" height="4" fill="#12b981"/>
+</svg>
