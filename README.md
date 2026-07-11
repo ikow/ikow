@@ -45,9 +45,7 @@ Research at [AuraLabs](https://aurascape.ai/resources/auralabs-research/) &amp; 
 
 ### &#127919; Full portfolio &rarr; **[www.ikow.cn](https://www.ikow.cn)**
 
-<br>
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ikow&show_icons=true&hide_border=true&bg_color=070B11&title_color=34D399&icon_color=22D3EE&text_color=AAB6C6&ring_color=34D399" height="150" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikow&layout=compact&hide_border=true&bg_color=070B11&title_color=34D399&text_color=AAB6C6&langs_count=6" height="150" alt="top languages"/>
+<br>
+<sub><code>$ whoami</code> &nbsp;&rarr;&nbsp; <b>Qi Deng (kow)</b> — I break things, then I build them.</sub>
 </div>
